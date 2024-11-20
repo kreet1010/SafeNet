@@ -1,0 +1,9 @@
+com\phishingdetection\detection\URLAnalyzer.class
+com\phishingdetection\utils\StringUtils.class
+com\phishingdetection\detection\PolicyUpdater.class
+com\phishingdetection\utils\LoggerUtil.class
+com\phishingdetection\detection\EmailAnalyzer.class
+com\phishingdetection\PhishingDetectionApp.class
+com\phishingdetection\utils\Analysis.class
+com\phishingdetection\utils\HttpUtils.class
+com\phishingdetection\detection\DomainValidator.class
